@@ -1,179 +1,38 @@
-<!DOCTYPE html>
-<html>
+---
+layout: default
+title: Home
+---
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Yan-qi.github.io : " />
+<div class="posts">
+  {% for post in paginator.posts %}
+  <div class="post">
+    <h1 class="post-title">
+      <a href="{{ post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
 
-    <title>Yan's Brave New World</title>
-  </head>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
 
-  <body>
-<div> 
-
-<div align="left">
-<table border="0" bordercolor="#888888" cellspacing="0" style="border-color:rgb(136,136,136);border-width:0px;border-collapse:collapse">
-<tbody>
-<tr>
-<td style="text-align:left;width:407px;height:16px"><a href="https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B3ZSBeVE-aohMmIwODQ3ZjAtODkyZC00ZmE3LWIzMjUtMjRjZmNmY2EyOWVm&amp;hl=en" target="_blank">Resume</a>
-<a href="https://docs.google.com/fileview?id=0B3ZSBeVE-aohZTNjNjVlMzMtNGEzZS00NWQyLWE5MGMtMDdlY2JiZjQ0NWE0&amp;hl=en" target="_blank">CV</a><br>
-<a href="http://picasaweb.google.com/yan.qi.asu">
-</a></td>
-
-<td style="text-align:right;width:446px;height:16px">&nbsp;<a href="http://code.google.com/p/hr-join/" target="_blank"></a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<div>
-
-<table border="0" bordercolor="#888888" cellspacing="0" style="border-color:rgb(136,136,136);border-width:0px;border-collapse:collapse">
-<tbody>
-<tr>
-<td style="width:859px;height:217px">
-<div>
-<h3 align="justify">Life Journey <br>
-</h3>
-
-    
-<p align="justify"> Before I came to the U.S., I had got my B.S. and M.S. from <a href="http://cs11.ustc.edu.cn/en/more.php?siteid=573&amp;tplset=depte1&amp;catalogid=575&amp;pid=573" rel="nofollow" target="_blank">the Computer Science Department</a> at <a href="http://www.ustc.edu.cn/en/" rel="nofollow" target="_blank">University of Science and Technology of China</a>.  In Fall 2004, I joined <a href="http://sci.asu.edu/about/cse.php" rel="nofollow" target="_blank">the Computer Science and Engineering Department</a> at <a href="http://www.asu.edu/" rel="nofollow" target="_blank">Arizona State University</a> as a graduate student. This is the beginning of my journey towards a Ph.D.
-
-	My adviser is <a href="http://www.public.asu.edu/%7Ecandan/index.htm" rel="nofollow" target="_blank">Dr. K.Selcuk Candan</a>.&nbsp;</p>
-<p align="justify">After graduating, I joined <a href="http://www.teradata.com/t/" target="_blank">Teradata Corp.</a>, the world's largest company solely focused on creating enterprise agility through database software, enterprise data warehousing, data warehouse appliances, and analytics. Teradata has one of the best Parallel Database Management Systems (PDBMSs) in the world. My current work is on the integration of the Parallel DBMS with the Distributed File System (e.g., Hadoop DFS).&nbsp;</p>
-<p align="justify">Now I am working for Turn, a startup company of the digital advertising industry. Particularly, my work is to exploit the distributed computing technology (such as Hadoop MapReduce) for the construction of data platform to store and manage large scale data. <br>
-</p>
-
-
+    {{ post.content }}
   </div>
- 
-
-  
-    
-
-    
-<h3 align="justify">Research Interests</h3>
-
-    
- My primary research interest is in the field of <i><b>data integration</b></i>.
-Particularly, the existence of value and structural conflicts in the
-process of data integration prevents an effective exploration over
-integrated data. One goal of my work is to develop efficient algorithms
-to capture these conflicts and provide effective schemes for the
-conflict resolution.<br>
-</td>
-</tr>
-</tbody>
-</table>
-
-
-
-<table border="0" bordercolor="#888888" cellspacing="0" style="border-color:rgb(136,136,136);border-width:0px;border-collapse:collapse">
-<tbody>
-<tr>
-<td style="width:409px;height:253px">
-<p>Furthermore, other areas that I am interested in include but not limit to:
-
-		</p>
-
-<ul><li>efficient twig-query processing over graph 
-
-			</li>
-<li>topic segmentation of text streams
-
-			</li>
-<li>real-time XML stream filtering
-
-		</li></ul>
-
-	
-
-	
-<p>or <a href="https://docs.google.com/fileview?id=0B3ZSBeVE-aohYzkxYzU2MjEtOWM0Mi00NzdhLTg4YTQtOWRlZTkxYmRhNzQ2&amp;hl=en" target="_blank">more ... </a></p>
-<p> </p>
-
-
-  
- 
-
-  
-<div>    
-
-    
-<h3 align="justify">Publications</h3>
-
-	
-<ul><li>Coming soon ... or see <a href="https://docs.google.com/fileview?id=0B3ZSBeVE-aohZTNjNjVlMzMtNGEzZS00NWQyLWE5MGMtMDdlY2JiZjQ0NWE0&amp;hl=en" target="_blank">my CV</a>.
-
-	</li></ul>
-
-  </div>
-</td>
-<td style="width:458px;height:253px">&nbsp;
-<div style="margin:5px 10px;display:inline;float:right"><a href="http://picasaweb.google.com/lh/photo/QeUv_5l1wovbUZ5EJmXwDA?authkey=Gv1sRgCIzJrIi25LWX7AE" imageanchor="1"><img border="0" src="http://lh4.ggpht.com/_kBmDIk6FSuc/SaMJEaQXYXI/AAAAAAAABOY/EEMMQc3OcoE/s320/qiyan2.jpg"></a></div>
-</td>
-</tr>
-</tbody>
-</table>
-<br>
+  {% endfor %}
 </div>
-<hr align="left" width="400">
 
-  
-<div>
-
-    
-<div>
-
-	
-<table>
-<tbody>
-<tr>
-<td style="width:839px;height:171px">
-
-	  
-<h3 align="justify"><font size="4"><i><span style="font-family:verdana,sans-serif">Dream Tracking</span></i></font></h3>
-
-      
-<p align="justify"> <i>Climbing is a difficult thing for people who get
-used to walking in the flat. It's like a long distance running. The
-hardest time is when you are in the middle of the mountain. Everything
-seems beyond what you can put up with. The breath is out of order, the
-legs weigh like stones, and the track under your feet extends out of
-sight. In a moment, nothing can catch you so really but the thought of
-giving up. How I want to take a break, or stop ahead! But the sun
-doesn't wait for anyone. It rises up as it does. I must make a choice
-between giving up and going on, or will miss the aim of the very
-climbing: the sun rise. In fact, when I set off, the choice has been
-made: I must continue, continue, and continue. In my heart, one thing
-is always there, which leads me forward, upward. It's the one that is
-hidden at the bottom of the Pandora's box.</i> <b>Hope</b>... </p>
-
-	  </td>
-
-	  
-<td style="width:18px;height:171px">&nbsp; 
-
-</td>
-
-	  
-<td style="width:0px;height:171px"><br>
-</td>
-</tr>
-</tbody>
-</table>
+<div class="pagination">
+  {% if paginator.next_page %}
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+  {% else %}
+    <span class="pagination-item older">Older</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+    {% if paginator.page == 2 %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
+    {% else %}
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
+    {% endif %}
+  {% else %}
+    <span class="pagination-item newer">Newer</span>
+  {% endif %}
 </div>
-</div>
-</div>
-<div>
-<div style="display:block;text-align:left"><a href="https://sites.google.com/site/qiyan333/home/mySign_Icon.GIF?attredirects=0" imageanchor="1"><img border="0" src="https://sites.google.com/site/qiyan333/home/mySign_Icon.GIF"></a><a href="#">About Me </a> | <a href="#">Site
 
-  Map</a> | <a href="#">Privacy Policy</a> | Contact Me  | ©2010 | <b>Since 2005-06-20: </b> <img border="0" src="http://www.amazingcounters.com/counter.php?i=202337&amp;c=607324">
-
-</div>
-</div>
-</div>
-    
-
-  </body>
-</html>
