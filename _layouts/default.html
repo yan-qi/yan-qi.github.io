@@ -2,7 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
+<h3 class="masthead-title">
+	<a href="/" title="Home">{{ site.title }}</a>
 
+	{% for page in site.pages_list %}
+	  &nbsp;&nbsp;&nbsp;
+	  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
+	{% endfor %}
+	</h3>
   <body>
 
     {% include sidebar.html %}
@@ -22,6 +29,9 @@
       <div class="container content">
         {{ content }}
       </div>
+	  
+	  {% include comments.html %}
+	  
     </div>
 
     <label for="sidebar-checkbox" class="sidebar-toggle"></label>
@@ -43,16 +53,6 @@
         }, false);
       })(document);
     </script>
-	<h3 class="masthead-title">
-	<a href="/" title="Home">{{ site.title }}</a>
-
-	{% for page in site.pages_list %}
-	  &nbsp;&nbsp;&nbsp;
-	  <small><a href="{{ page[1]  }}">{{ page[0] }}</a></small>
-	{% endfor %}
-	</h3>
-	
-	{% include comments.html %}
 	
   </body>
 </html>
