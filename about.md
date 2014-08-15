@@ -1,4 +1,7 @@
---- layout: page title: About ---
+---
+layout: page
+title: About
+---
 
 
 <!-- Before I came to the U.S., I had got my B.S. and M.S. from <a
