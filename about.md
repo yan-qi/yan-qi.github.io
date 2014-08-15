@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Yan Qi
 ---
 
 
@@ -44,4 +44,5 @@ an unknown world where I had never been.
 
 
 [^1]: [Content-based Interactive Emotional Image Retrieval](http://www.cqvip.com/Read/Read.aspx?id=5868569)
+
 [^2]: [The Application of the IGA in the CBIR](http://www.cqvip.com/qk/90287x/200401/9625006.html)
