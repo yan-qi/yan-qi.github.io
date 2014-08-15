@@ -29,7 +29,7 @@ feedback if the result is not perfect. An improved result will be given
 in the following taking the user feedback into account, until the user
 gets the right image, conceptually. Besides the BP neutral network, we
 had tried other techniques, such as the interactive genetic algorithm
-([IGA]())[^2].
+([IGA](http://en.wikipedia.org/wiki/Interactive_evolutionary_computation#IGA))[^2].
 
 Then [ImageNet](www.image-net.org/) didn't exist, so we tried to crawl
 many images from the Internet. Whereas the variety was a problem as most

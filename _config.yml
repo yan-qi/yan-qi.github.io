@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Yan Qi
-tagline:          ' Think Scalable '
+title:            Think Scalable
+tagline:          ' Yan Qi '
 description:      'Think Scalable'
 url:              http://yan-qi.github.io
 baseurl:          '/'
