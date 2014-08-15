@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yan Qi
+title: About
 ---
 
 
