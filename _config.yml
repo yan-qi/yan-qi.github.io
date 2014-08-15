@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Yan Qi
-tagline:          ' Brave New World '
-description:      'Brave New World'
+tagline:          ' Think Scalable '
+description:      'Think Scalable'
 url:              http://yan-qi.github.io
 baseurl:          '/'
 paginate:         5
