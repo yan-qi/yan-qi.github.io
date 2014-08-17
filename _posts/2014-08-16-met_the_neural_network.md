@@ -1,25 +1,7 @@
 ---
-layout: page
-title: About
+layout: post
+title: Met the Neural Network
 ---
-
-
-<!-- Before I came to the U.S., I had got my B.S. and M.S. from <a
-href="http://cs11.ustc.edu.cn/en/more.php?siteid=573&amp;tplset=depte1&
-amp;catalogid=575&amp;pid=573" rel="nofollow" target="_blank">the
-Computer Science Department</a> at <a href="http://www.ustc.edu.cn/en/"
-rel="nofollow" target="_blank">University of Science and Technology of
-China</a>.  In Fall 2004, I joined <a
-href="http://sci.asu.edu/about/cse.php" rel="nofollow"
-target="_blank">the Computer Science and Engineering Department</a> at
-<a href="http://www.asu.edu/" rel="nofollow" target="_blank">Arizona
-State University</a> as a graduate student. This is the beginning of my
-journey towards a Ph.D. -->
-
-![Alt text](/public/qiyan2.jpg "CamelBack@Pheonix")
-
-Sometimes I look back on what I have done in the past, I cannot even 
-believe that I touched so many exciting things.
 
 When I was in [college](http://en.cs.ustc.edu.cn/), I had a chance of working with a post-doc in our
 department on the contented-based image retrieval (CBIR)[^1]. Clearly it was a
@@ -38,19 +20,14 @@ Then [ImageNet](www.image-net.org/) didn't exist in those years, so in our exper
 many images from the Internet. Whereas the variety was a problem as most
 of the images we got were landscape photos. You can image that the
 quality of our work was kind of limited. 
-However, working on this project was really an inspiring experience to me, as it opened a door to
-an unknown world where I had never been. 
+However, working on this project was really an inspiring experience to me, as it opened a door to an unknown world where I had never been. 
 
-<!--
-I had a master degree from [the computer science department](http://en.cs.ustc.edu.cn/) of the [USTC](http://en.ustc.edu.cn/). 
--->
+![Alt text](../public/tongling_bridge.jpg "bridge@tongling") 
 
 Another interesting project that I got involved in my graduate school in the [USTC](http://en.ustc.edu.cn/) was to create a bridge health monitor system. My advisor, Professor [Lu](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=322) led the effort to the software development.
-Tentatively I created a BP neural network to predict the bridge health [^3]. 
+Tentatively I created a BP neural network to predict the bridge health [^3]. However, the performance was not good enough for the real-life application. On one hand, if the training data were not chosen properly, the result would not be right. In my experiment, there were often no enough data for the training. On the other hand, the training process was always time consuming, and not very effective.  
 
-<!--
-<img src="/public/tongling_bridge.jpg" alt="bridge@tongling" style="width: 300;"/>
--->
+I started realizing that the neural network might not be as effective or efficient as it does sound. It tries to simulate the way people think, but clearly there is still a long way to go before it can act like a man.
 
 
 [^1]: [Content-based Interactive Emotional Image Retrieval](http://www.cqvip.com/Read/Read.aspx?id=5868569)
