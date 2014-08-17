@@ -40,9 +40,11 @@ of the images we got were landscape photos. You can image that the
 quality of our work was kind of limited. 
 However, working on this project was really an inspiring experience to me, as it opened a door to
 an unknown world where I had never been. 
+
 <!--
 I had a master degree from [the computer science department](http://en.cs.ustc.edu.cn/) of the [USTC](http://en.ustc.edu.cn/). 
 -->
+
 Another interesting project that I got involved in my graduate school in the [USTC](http://en.ustc.edu.cn/) was to create a bridge health monitor system. My advisor, Professor [Lu](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=322) led the effort to the software development.
 ![Alt text](/public/tongling_bridge.jpg "bridge@tongling") 
 Tentatively I created a BP neural network to predict the bridge health [^3]. 
