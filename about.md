@@ -47,6 +47,7 @@ I had a master degree from [the computer science department](http://en.cs.ustc.e
 
 Another interesting project that I got involved in my graduate school in the [USTC](http://en.ustc.edu.cn/) was to create a bridge health monitor system. My advisor, Professor [Lu](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=322) led the effort to the software development.
 Tentatively I created a BP neural network to predict the bridge health [^3]. 
+
 <!--
 <img src="/public/tongling_bridge.jpg" alt="bridge@tongling" style="width: 300;"/>
 -->
