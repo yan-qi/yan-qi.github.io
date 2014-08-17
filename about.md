@@ -45,12 +45,11 @@ an unknown world where I had never been.
 I had a master degree from [the computer science department](http://en.cs.ustc.edu.cn/) of the [USTC](http://en.ustc.edu.cn/). 
 -->
 
-Another interesting project that I got involved in my graduate school in the [USTC](http://en.ustc.edu.cn/) was to create a bridge health monitor system. 
+Another interesting project that I got involved in my graduate school in the [USTC](http://en.ustc.edu.cn/) was to create a bridge health monitor system. My advisor, Professor [Lu](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=322) led the effort to the software development.
+Tentatively I created a BP neural network to predict the bridge health [^3]. 
 <!--
 <img src="/public/tongling_bridge.jpg" alt="bridge@tongling" style="width: 300;"/>
 -->
-My advisor, Professor [Lu](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=322) led the effort to the software development.
-Tentatively I created a BP neural network to predict the bridge health [^3]. 
 
 
 [^1]: [Content-based Interactive Emotional Image Retrieval](http://www.cqvip.com/Read/Read.aspx?id=5868569)
