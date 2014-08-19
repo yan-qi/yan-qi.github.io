@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Thinking@Scale
 tagline:          ' Yan Qi '
 description:      'Thinking@Scale'
-url:              http://yan-qi.github.io
+url:              https://yan-qi.github.io
 baseurl:          '/'
 paginate:         5
 
