@@ -6,10 +6,10 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Think Scalable
+title:            Think@Scale
 tagline:          ' Yan Qi '
-description:      'Think Scalable'
-url:              http://yan-qi.github.io
+description:      'Think@Scale'
+url:              http://www.thinkscale.com
 baseurl:          '/'
 paginate:         5
 
