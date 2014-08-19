@@ -16,7 +16,7 @@ gets the right image, conceptually.
 The tools serving our purpose included [the BP neural network](http://en.wikipedia.org/wiki/Backpropagation) and the interactive genetic algorithm
 ([IGA](http://en.wikipedia.org/wiki/Interactive_evolutionary_computation#IGA))[^2].
 
-Then [ImageNet](www.image-net.org/) didn't exist in those years, so in our experiments, we had to crawl
+Then [ImageNet](http://www.image-net.org/) didn't exist in those years, so in our experiments, we had to crawl
 many images from the Internet. Whereas the variety was a problem as most
 of the images we got were landscape photos. You can image that the
 quality of our work was kind of limited. 
