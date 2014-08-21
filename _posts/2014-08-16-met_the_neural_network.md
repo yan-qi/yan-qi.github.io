@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Met the Neural Network
+title: Met Neural Network
 ---
 
 When I was in [college](http://en.cs.ustc.edu.cn/), I had a chance of working with a post-doc in our
