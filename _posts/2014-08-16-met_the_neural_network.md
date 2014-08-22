@@ -27,7 +27,7 @@ However, working on this project was really an inspiring experience to me, as it
 Another interesting project that I got involved in my graduate school in the [USTC](http://en.ustc.edu.cn/) was to create a bridge health monitor system. My advisor, Professor [Lu](http://dsxt.ustc.edu.cn/zj_ywjs.asp?zzid=322) led the effort to the software development.
 Tentatively I created a BP neural network to predict the bridge health [^3]. However, the performance was not good enough for the real-life application. On one hand, if the training data were not chosen properly, the result would not be right. In my experiment, there were often no enough data for the training. On the other hand, the training process was always time consuming, and not very effective.  
 
-I started realizing that the neural network might not be as effective or efficient as it does sound. It tries to simulate the way people think, but clearly there is still a long way to go before it can act like a man.
+I started realizing that the neural network might not be as effective or efficient as it does sound. It tries to simulate the way people think, but clearly there is still a long way to go before it can *think* like a man.
 
 
 [^1]: [Content-based Interactive Emotional Image Retrieval](http://www.cqvip.com/Read/Read.aspx?id=5868569)
