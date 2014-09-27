@@ -1,0 +1,20 @@
+---
+layout: post
+title: Spirits in Action Never Die
+---
+
+Recently an [article](http://readwrite.com/2014/08/11/why-learn-php) in [readwrite.com](http://readwrite.com) drew my attention. It talks about PHP, a programming language created in 1994. It reminds me of those days when I studied PHP, making me think a lot about the programming languages and the ideas underneath. (Interestingly both PHP and Hadoop employ an elephant in the logo)
+
+The first programming language that I learned is Pascal. Since then, there have been a long list of programming languages that I have ever used. Few of them were taught in my college such as Pascal, C and ASM. Others were mostly self taught, when they were regarded as necessary. For instance, when I did research on the high availability systems, I worked on some programs in Erlang, a programming language not commonly recognized.
+
+The story of PHP might sound a little funny. PHP, as you may know, is a scripting language that allows programmers to build dynamic Web pages. Clearly, it doesn't seem right if you apply it in the field of, let's say, machine learning. <img style="float: left" src="http://thinkingscale.com/public/php-1.png" width=250x/> When I was a senior at college, one of the post-doctors in the lab where I volunteered assigned me a job: to implement a machine learning algorithm in PHP. According to her, the program would be easily deployed as a Web service if it were implemented in PHP. I was too fresh to think about it again before taking action. In the following weeks, I tried my best to learn and use PHP to implement the algorithm. However, no matter how hard I tried, the program I got did not work: it was too slow to get completed. In the end I had to re-implement the algorithm in C, which proved to be the right choice. 
+
+The bright side of this story is that the effort I took on PHP was not a waste. I learned how to build a website with PHP. I am also impressed by its simplicity and flexibility. PHP may not be perfect, but it is simple and powerful enough in most cases. Furthermore, learning how PHP works also deepened my understanding of web programming. Other lessons that I learned about programming also include: 
+
+* Every programming language has its pros and cons. There is no such a thing as 'silver bullet'. 
+* It is necessary to have a thorough understanding of problem in the field in order for choosing the right programming language. 
+* There is a huge gap between knowing a language and using it well. No shortcut! But keeping practicing can always lead us closer to be a master. 
+
+The programming language is quite different from the human language. Rather than often a communication vehicle, the programming language is more like a tool for solving computational problems. Obviously as there can be more than one solution or different ways to attack the problem, no programming language would be the *ONE*. In some scenario, one may be better than the other, but in others not necessarily. Sometimes it is amusing to see people arguing against each other as to which programming language is the best. In many cases, people simply ignore the problems the languages try to solve, instead they would rather pay more attention to the features or functionalities. Remember I was one of them once upon a time, when I started to learn Java. I thought Java would replace C++ or C some day as it is a write-once-run-anywhere language. However, the day never comes because Java and C++ are excellent only in some particular fields. 
+
+Instead of focusing on the programming languages, I believe it is more helpful to think of the problem. Why are there more than one programming languages to attack the same problem? Is it a tricky problem? What is the challenge behind? Is there anything we can do to improve any exiting tool? Not only does thinking in this way pull us out of the pointless argument, but leads us to better ourselves. 
