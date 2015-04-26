@@ -11,7 +11,7 @@ However, I needed an implementation of this algorithm in C++ or Java. After sear
 Afterwards, I created a Google project[^3] to share my implementation as I believe it is great if anyone can benefit from my work. Later on I added its C++ implementation per people's requests. Actually I was surprised as so many people were interested in the project. Many of them did really apply the code to their work. More importantly, they gave me quite a few good feedbacks. 
 <img style="float: right" src="http://thinkingscale.com/public/open_source.jpg" width=110x/>
 
-* My implementation had bugs, which were not captured in my tests. Some feedbacks helped me **identify and fix** most of them. Actually one [bug](https://code.google.com/p/k-shortest-paths/wiki/AlgorithmBug) was so tricky, because it's hidden in the algorithm[^4], that it was almost impossible to dig it out without users' feedbacks.
+* My implementation had bugs, which were not captured in my tests. Some feedbacks helped me **identify and fix** most of them. Actually one [bug](https://github.com/yan-qi/k-shortest-paths-java-version#a-note-about-a-bug) was so tricky, because it's hidden in the algorithm[^4], that it was almost impossible to dig it out without users' feedbacks.
 * Some developers would like to **contribute back**, joining me with bug fixing, code refactoring, and even new implementation. For instance, Vinh Bui added the C# implementation. 
 * A small **community** was built up around this project, to help each other and encourage me work harder towards a better software. 
 
@@ -29,6 +29,6 @@ In the sense, the philosophy advocated by open source, I believe, can be summari
 
 [^2]: [FICSR: feedback-based inconsistency resolution and query processing on misaligned data sources. SIGMOD Conference 2007](http://dl.acm.org/citation.cfm?doid=1247480.1247499)
 
-[^3]: [Google Code Project: An implementation of K-Shortest Path Algorithm](https://code.google.com/p/k-shortest-paths/)
+[^3]: [GitHub Project: An implementation of K-Shortest Path Algorithm](http://thinkingscale.com/k-shortest-paths-cpp-version/)
 
 [^4]: [A new implementation of Yen’s ranking loopless paths algorithm](http://link.springer.com/article/10.1007%2Fs10288-002-0010-2)
