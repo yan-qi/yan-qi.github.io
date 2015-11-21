@@ -3,7 +3,7 @@ layout: post
 title: Nested Data in DataMine
 ---
 
-After joining [Turn](http://www.turn.com), I started to work on [DataMine](http://www.turn.com/en-gb/products/audience-suite/datamine), a peta-byte scale data warehouse built upon Hadoop. One of the most important features of DataMine is that it can effectively support the nested data structure. 
+After joining [Turn](http://www.turn.com), I started to work on [DataMine](http://www.turn.com/digital-hub/product-suites#analytics), a peta-byte scale data warehouse built upon Hadoop. One of the most important features of DataMine is that it can effectively support the nested data structure. 
 
 <img style="float: left" src="http://thinkingscale.com/public/tables.jpeg" width=200x/>
 Comparing with the traditional relational data model, the nested relational data model allows the value in a table to be a set or a hierarchical structure. While stored in the database it cannot be simply normalized, instead it is depicted in the [non-first normal form](http://en.wikipedia.org/wiki/Database_normalization#Non-first_normal_form_.28NF.C2.B2_or_N1NF.29) (i.e., non-1NF). In other words, the constraint that *all domains must be atomic* is not satisfied. Clearly it is a drawback if the data needs updating frequently. Whereas the nested relational data model makes the data representation more natural and efficient, and importantly it can eliminate join operations while reading. From this point of view the nested data structure can work well with data warehouse, where [OLAP (OnLine Analytical Processing)](http://en.wikipedia.org/wiki/Online_analytical_processing) is more common than [OLTP (OnLine Transaction Processing)](http://en.wikipedia.org/wiki/Online_transaction_processing).
