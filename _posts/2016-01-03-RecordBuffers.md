@@ -7,10 +7,10 @@ Data serialization is a basic problem that every data system has to deal with. T
 
 However, they could do better when applied to the data with nested structure. For example, the in-memory record representation may consume the similar memory even though only a few of columns have meaningful values. On the other hand, it is possible to improve the deserialization performance with the help of index. 
 
-[DataMine](http://www.turn.com/digital-hub/product-suites#analytics), the data warehouse of Turn, exploits a flexible, efficient and automated mechanism to manage the data storage and access. It describes the data structure in [DataMine IDL](https://github.com/turn/DataMine/blob/master/doc/DataMine_IDL.md), follows a code generation approach to define the APIs for data access and schema reading. A data encoding scheme, [RecordBuffer](https://github.com/turn/DataMine/tree/master/RecordBuffers) is applied to the data serialization/de-serialization. RecordBuffer depicts the content of a table record as a byte array. Particularly RecordBuffer has the following structure. 
+[DataMine](http://www.turn.com/digital-hub/product-suites#analytics), the data warehouse of Turn, exploits a flexible, efficient and automated mechanism to manage the data storage and access. It describes the data structure in [DataMine IDL](https://github.com/turn/DataMine/blob/master/doc/DataMine_IDL.md), follows a code generation approach to define the APIs for data access and schema reading. A data encoding scheme, [RecordBuffer](https://github.com/turn/DataMine/tree/master/recordbuffers) is applied to the data serialization/de-serialization. RecordBuffer depicts the content of a table record as a byte array. Particularly RecordBuffer has the following structure. 
 
 
-<img src="https://github.com/turn/DataMine/raw/master/RecordBuffers/doc/res/record_buf.png" width=1100x/>
+<img src="https://github.com/turn/DataMine/raw/master/recordbuffers/doc/res/record_buf.png" width=1100x/>
 
 
 - *Version No.* specifies what version of schema this record uses; it is required and takes 2 bytes.
