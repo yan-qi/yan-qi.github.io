@@ -18,7 +18,7 @@ As one of the important players in the field, Teradata does not want to be left 
 
 
 The common idea shared by both Hadoop and Teradata EDW (Enterprise Data Warehouse) is that data are partitioned across multiple nodes thus the computation can be done in parallel. 
-<img style="float: right" src="http://thinkingscale.com/public/teradata-logo.jpg" width=280x/>
+<img style="float: right" src="http://thinkingscale.com/public/teradata-logo.jpg" width="280x"/>
 Therefore one of my work then was to explore the collaboration opportunities between them. 
 
 * One application was to load data from the HDFS into the Teradata data warehouse[^1]. It enables a Hadoop-Teradata EDW co-existing environment: Teradata EDW is the first tier as the data storage and for the main data analytics, whereas Hadoop is the second tier as the intermediate data storage and processing. Here Hadoop is mainly used as part of an ETL process, instead of serving for data analytics.

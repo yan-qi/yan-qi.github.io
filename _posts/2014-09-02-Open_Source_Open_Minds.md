@@ -9,7 +9,7 @@ Clearly finding the top-k shortest paths is a classical graph problem, and [Yen'
 However, I needed an implementation of this algorithm in C++ or Java. After searching Google, I could find neither. So I decided to *do it myself*. The initial implementation was in Java, used in our [SIGMOD](http://sigmod07.riit.tsinghua.edu.cn/acceptedPaperForSIGMOD.shtml) demo[^1]. 
 
 Afterwards, I created a Google project[^3] to share my implementation as I believe it is great if anyone can benefit from my work. Later on I added its C++ implementation per people's requests. Actually I was surprised as so many people were interested in the project. Many of them did really apply the code to their work. More importantly, they gave me quite a few good feedbacks. 
-<img style="float: right" src="http://thinkingscale.com/public/open_source.jpg" width=110x/>
+<img style="float: right" src="http://thinkingscale.com/public/open_source.jpg" width="110x"/>
 
 * My implementation had bugs, which were not captured in my tests. Some feedbacks helped me **identify and fix** most of them. Actually one [bug](https://github.com/yan-qi/k-shortest-paths-java-version#a-note-about-a-bug) was so tricky, because it's hidden in the algorithm[^4], that it was almost impossible to dig it out without users' feedbacks.
 * Some developers would like to **contribute back**, joining me with bug fixing, code refactoring, and even new implementation. For instance, Vinh Bui added the C# implementation. 
