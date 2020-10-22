@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-pygments:         true
+highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -18,4 +18,4 @@ version:          1.0.0
   
 pages_list:       
   About: '/about'
-  Feed: '/atom.xml'
+  Feed: ' /atom.xml'
