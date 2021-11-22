@@ -3,7 +3,7 @@ layout: post
 title: Career Planning
 ---
 
-![Long View Approach - Career Planning](/public/sunset-view.png)
+![Long View Approach - Career Planning](/public/sunset-view.jpg)
 
 In the past 20 years, the human life expectancy has been improved significantly, and the retirement age has been rising. In other words, the retirement is starting later but lasting longer. People used to think that careers would be over when they are around 40s. However, it may not be even at the halfway point. Actually people tend to underestimate the length of a career. Therefore it is necessary to plan for a long career journey, especially if a successful career is concerned.  
 
