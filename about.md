@@ -6,15 +6,29 @@ title: About
 
 ![Alt text](http://thinkingscale.com/public/qiyan2.jpg "CamelBack@Pheonix")
 
-<!--
-Sometimes I look back on what I have done in the past, I cannot even 
-believe that I touched so many exciting things.
+A seasoned data engineering leader with over 15 years of industry experience, including 10 years in research and development. Joined Apple in 2016 as a data engineer and was promoted to an engineering manager role in 2019. In this role, I have led a team of engineers distributed across different locations, delivering high-impact projects and driving innovation in data analytics.
 
-In 2009, I got my first full-time job with [Teradata](http://www.teradata.com). It was a R&D position. Since then, I have migrated my focus to the parallel DBMS and the distributed computation. 
--->
+## Work Experience
 
-Before I came to the U.S., I had got my B.S. and M.S. from the Computer Science Department at University of Science and Technology of China. In Fall 2004, I joined the Computer Science and Engineering Department at Arizona State University as a graduate student. This is the beginning of my journey towards a Ph.D. My adviser is Dr. K.Selcuk Candan. 
+### Apple, Engineering Manager (2019 - Present)
 
-After graduating, I joined [Teradata Corp.](http://www.teradata.com), the world's largest company solely focused on creating enterprise agility through database software, enterprise data warehousing, data warehouse appliances, and analytics. Teradata has one of the best Parallel Database Management Systems (PDBMSs) in the world. My focus was on the integration of the Parallel DBMS with the Distributed File System (e.g., Hadoop DFS). 
+- Oversee a data engineering team responsible for delivering data products and solutions for various business units, including TV+, Sports, and Fitness+.
 
-Now I am working for [Turn Inc](http://www.turn.com), a startup company of the digital advertising industry. Particularly, my work is to exploit the distributed computing technology (such as Hadoop MapReduce) for the construction of data platform to store and manage large scale data. 
+- Established myself as a collaborative and influential leader, partnering closely with business stakeholders, data scientists, and cross-functional teams to drive data strategy and deliver business-critical solutions.
+
+- Effectively managed the distributed team, fostering a culture of innovation and continuous improvement, and mentoring and developing team members to support their growth and success. 
+
+- Created and adopted the cost-conscious engineering approach to measure the efficiency of team work, optimize job resource allocations, and better educate stakeholders the true costs involved. 
+  
+### Apple, Software Engineer (2016 - 2019)
+- Worked as a data engineer, contributing to various projects such as App Store, Podcasts, and Video, gaining a broad range of skills and a deep understanding of the business requirements and objectives.
+
+## Prior Experience
+- Architect, Scalable Data Platform at Turn (2011 - 2016)
+- Software Engineer of Advanced Development at Teradata (2009 - 2011)
+- Ph.D. in Computer Science at Arizona State University (2004 - 2009)
+
+## Technical Expertise
+- Big Data, Information Retrieval and Integration, Distributed Computing
+- Big Data Analysis and Processing, Data Warehousing
+- Query Optimization, Column-oriented Databases
