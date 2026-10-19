@@ -40,3 +40,6 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# Local-only Jekyll overrides (jekyll serve --config _config.yml,_config_local.yml)
+_config_local.yml
