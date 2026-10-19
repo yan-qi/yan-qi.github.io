@@ -4,31 +4,31 @@ title: About
 ---
 
 
-![Alt text](http://thinkingscale.com/public/qiyan2.jpg "CamelBack@Pheonix")
+![Yan Qi](/public/qiyan2.jpg "CamelBack@Phoenix")
 
-A seasoned data engineering leader with over 15 years of industry experience, including 10 years in research and development. Joined Apple in 2016 as a data engineer and was promoted to an engineering manager role in 2019. In this role, I have led a team of engineers distributed across different locations, delivering high-impact projects and driving innovation in data analytics.
+I'm a Senior Engineering Manager at Apple, where I lead a data platform and infrastructure team across Cupertino and Seattle. I've spent 15+ years building large-scale data platforms and distributed systems, and the last 5+ of them leading geo-distributed engineering teams.
 
-## Work Experience
+My team builds the content metadata platform, live-event data pipelines, and real-time analytics infrastructure behind Apple TV+ and Apple Sports, including the data platform for Formula 1, Major League Soccer, and Friday Night Baseball. I care about measured engineering culture, cost-conscious infrastructure, and growing engineers: so far six people on my teams have been promoted, two of them to staff level.
 
-### Apple, Engineering Manager (2019 - Present)
+Full details are on my [resume](/resume/).
 
-- Oversee a data engineering team responsible for delivering data products and solutions for various business units, including TV+, Sports, and Fitness+.
+## Career at a Glance
 
-- Established myself as a collaborative and influential leader, partnering closely with business stakeholders, data scientists, and cross-functional teams to drive data strategy and deliver business-critical solutions.
+- **Apple**, Senior Engineering Manager, Data Platform & Infrastructure (2021 – Present)
+- **Apple**, Engineering Manager, Content Analytics & Media Data Platform (2019 – 2021)
+- **Apple**, Software Engineer, Media Products Data Platform (2016 – 2019)
+- **Turn Inc.**, Architect, Scalable Data Platform (2011 – 2016)
+- **Teradata**, Software Engineer, Advanced Development (2009 – 2011)
+- **Arizona State University**, Ph.D. in Computer Science (2004 – 2009)
 
-- Effectively managed the distributed team, fostering a culture of innovation and continuous improvement, and mentoring and developing team members to support their growth and success. 
+## What I Work On
 
-- Created and adopted the cost-conscious engineering approach to measure the efficiency of team work, optimize job resource allocations, and better educate stakeholders the true costs involved. 
-  
-### Apple, Software Engineer (2016 - 2019)
-- Worked as a data engineer, contributing to various projects such as App Store, Podcasts, and Video, gaining a broad range of skills and a deep understanding of the business requirements and objectives.
+- Data platforms and lakehouse architecture: Spark, Flink, Kafka, Iceberg
+- Distributed storage and query optimization: Cassandra, HBase, columnar MPP engines
+- Real-time streaming and live-event data
+- Applying LLMs to production data problems
+- Engineering leadership: multi-site teams, operating rhythm, talent growth
 
-## Prior Experience
-- Architect, Scalable Data Platform at Turn (2011 - 2016)
-- Software Engineer of Advanced Development at Teradata (2009 - 2011)
-- Ph.D. in Computer Science at Arizona State University (2004 - 2009)
+## This Blog
 
-## Technical Expertise
-- Big Data, Information Retrieval and Integration, Distributed Computing
-- Big Data Analysis and Processing, Data Warehousing
-- Query Optimization, Column-oriented Databases
+*Thinking@Scale* is where I write about distributed systems, data engineering, and things I'm reading. Reach me at [yan.qi.asu@gmail.com](mailto:yan.qi.asu@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/qiyan/).
