@@ -10,6 +10,8 @@ permalink: /resume/
 
 Cupertino, CA · [yan.qi.asu@gmail.com](mailto:yan.qi.asu@gmail.com) · [linkedin.com/in/qiyan](https://www.linkedin.com/in/qiyan/)
 
+**[Download PDF](/public/Yan_Qi_Resume.pdf)**
+
 ---
 
 ## Executive Summary

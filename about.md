@@ -10,7 +10,7 @@ I'm a Senior Engineering Manager at Apple, where I lead a data platform and infr
 
 My team builds the content metadata platform, live-event data pipelines, and real-time analytics infrastructure behind Apple TV+ and Apple Sports, including the data platform for Formula 1, Major League Soccer, and Friday Night Baseball. I care about measured engineering culture, cost-conscious infrastructure, and growing engineers: so far six people on my teams have been promoted, two of them to staff level.
 
-Full details are on my [resume](/resume/).
+Full details are on my [resume](/resume/) ([PDF](/public/Yan_Qi_Resume.pdf)).
 
 ## Career at a Glance
 
