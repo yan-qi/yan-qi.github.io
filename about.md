@@ -6,7 +6,7 @@ title: About
 
 ![Yan Qi](/public/qiyan2.jpg "CamelBack@Phoenix")
 
-I'm a Senior Engineering Manager at Apple, where I lead a data platform and infrastructure team across Cupertino and Seattle. I've spent 15+ years building large-scale data platforms and distributed systems, and the last 5+ of them leading geo-distributed engineering teams.
+I'm a Senior Engineering Manager at Apple, where I lead a data platform and infrastructure team. I've spent 15+ years building large-scale data platforms and distributed systems, and the last 7 of them leading multi-site engineering teams.
 
 My team builds the content metadata platform, live-event data pipelines, and real-time analytics infrastructure behind Apple TV+ and Apple Sports, including the data platform for Formula 1, Major League Soccer, and Friday Night Baseball. I care about measured engineering culture, cost-conscious infrastructure, and growing engineers: so far six people on my teams have been promoted, two of them to staff level.
 

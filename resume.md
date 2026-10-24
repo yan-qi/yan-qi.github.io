@@ -16,9 +16,9 @@ Cupertino, CA · [yan.qi.asu@gmail.com](mailto:yan.qi.asu@gmail.com) · [linkedi
 
 ## Executive Summary
 
-Senior Engineering Leader with **15+ years** building large-scale data platforms and distributed infrastructure, including **5+ years leading geo-distributed engineering teams** at Apple, Turn Inc., and Teradata. Deep expertise in business-critical content and event data platforms, real-time streaming architectures, distributed NoSQL storage, and production Generative AI integration.
+Senior Engineering Leader with **15+ years** building large-scale data platforms and distributed infrastructure at Apple, Turn Inc., and Teradata, including **7 years leading multi-site engineering teams** at Apple. Deep expertise in business-critical content and event data platforms, real-time streaming architectures, distributed NoSQL storage, and production Generative AI integration.
 
-Track record of global live-streaming launches, org-wide infrastructure cost reclamation, and building high-velocity engineering teams across time zones. Ph.D. in Computer Science, specializing in Database Systems and Query Optimization.
+Track record of global live-streaming launches, org-wide infrastructure cost reclamation, and building high-velocity engineering teams across multiple sites. Ph.D. in Computer Science, specializing in Database Systems and Query Optimization.
 
 ---
 
@@ -29,14 +29,14 @@ Track record of global live-streaming launches, org-wide infrastructure cost rec
 #### Senior Engineering Manager · 2021 – Present
 *Data Platform & Infrastructure — Apple TV+ & Sports*
 
-Lead a geo-distributed engineering team across Cupertino and Seattle responsible for the core content catalog metadata platform, live event data pipelines, and real-time analytics infrastructure powering Apple TV+, Apple Sports, and partner streaming ecosystems.
+Lead the engineering team responsible for the core content catalog metadata platform, live event data pipelines, and real-time analytics infrastructure powering Apple TV+, Apple Sports, and partner streaming ecosystems. Team spanned Cupertino and Seattle through 2026.
 
 **Engineering Leadership & Team Development**
 
 - **Org & Ownership:** Lead a team of up to 9 engineers plus contractors; own platform SLAs, on-call rotation, and incident accountability across a portfolio of business-critical production datasets.
-- **Talent Growth:** Recruited, onboarded, and mentored engineers across two sites; developed and sponsored six engineers through promotion (two to staff level, four to senior level); grew an engineer into a technical-leadership role owning a major platform upgrade; managed a structured performance development plan through to measurable improvement.
+- **Talent Growth:** Recruited, onboarded, and mentored engineers across two sites; sponsored six engineers through promotion (two to staff, four to senior); grew an engineer into a technical-leadership role owning a major platform upgrade; ran a structured performance development plan to measurable improvement.
 - **Engineering Culture, Measured:** Instituted review and quality standards sustaining 100% code-review compliance, 93%+ test coverage, and zero production escapes over rolling 30-day windows.
-- **Operating Model:** Own the team's technical roadmap and quarterly planning cycle; established the weekly operating rhythm (standup, backlog grooming, release gating, technical deep-dives) and async-first practices enabling cross-timezone delivery; built a self-service documentation and dependency-graph portal that cut ad-hoc stakeholder support load.
+- **Operating Model:** Own the team's technical roadmap and quarterly planning cycle; established the weekly operating rhythm (standup, backlog grooming, release gating, technical deep-dives) and async-first written practices that cut recurring sync load while improving status visibility; built a self-service documentation and dependency-graph portal that cut ad-hoc stakeholder support load.
 - **Cross-Org Influence:** Led a privacy-preserving analytics initiative spanning Privacy, Commerce, BI, Instrumentation, and QA teams through to approved production launch; sustained a multi-year partnership with the primary downstream consumer org on shared schema design.
 
 **Platform Architecture & Cross-Org Impact**
@@ -73,16 +73,12 @@ Led engineering teams delivering analytics infrastructure, real-time dashboards,
 #### Software Engineer · 2016 – 2019
 *Media Products Data Platform (App Store, Music, TV, Podcasts, Books)*
 
-Core architectural contributor to foundational data services across Apple Media Products.
-
 - Built and operated petabyte-scale distributed storage and search infrastructure (Apache Cassandra, HBase, Solr/Lucene) serving content metadata and full-text catalog discovery to global client applications; contributed to migrating legacy batch infrastructure to Apache Spark and cloud-native architectures.
 
 ### Turn Inc. (Acquired by Amobee / Singtel) · Redwood City, CA
 
 #### Architect, Scalable Data Platform · 2011 – 2016
 *Scalable Data Platforms & AdTech Infrastructure*
-
-Led architecture and core data engineering for a high-volume real-time bidding (RTB) and ad-targeting data platform.
 
 - Architected **petabyte-scale** data lakes and ultra-low-latency stream processing for high-volume RTB traffic, plus distributed NoSQL and columnar analytical stores with multi-datacenter HA replication supporting continuous global ad serving and real-time attribution analytics.
 
@@ -98,7 +94,7 @@ Researched and implemented core engine features in Teradata's flagship massively
 ## Education
 
 **Ph.D. in Computer Science** · Arizona State University, Tempe, AZ · 2004 – 2009
-*Focus:* Cost-based query optimization in distributed and massively parallel databases, columnar indexing, and high-performance stream processing.
+*Focus:* Cost-based query optimization in MPP databases, columnar indexing, stream processing.
 
 ---
 
@@ -109,7 +105,7 @@ Researched and implemented core engine features in Teradata's flagship massively
 - **Cloud & Infrastructure:** Kubernetes, Docker, CI/CD, Grafana, multi-region deployments, capacity planning
 - **AI / ML & LLM Engineering:** LLM embeddings & semantic matching, RAG, agentic AI systems, Vision-Language Models, vector databases
 - **Programming Languages:** Java, Scala, Python, SQL, C++, Swift, TypeScript
-- **Leadership & Governance:** Multi-site team leadership (Cupertino/Seattle), technical roadmap & quarterly planning, hiring & performance management, data governance, schema & lineage, cost attribution, incident management, GDPR/privacy compliance
+- **Leadership & Governance:** Multi-site team leadership, technical roadmap & quarterly planning, hiring & performance management, data governance, cost attribution, incident management, privacy compliance
 
 ---
 

@@ -43,3 +43,10 @@ bower_components
 
 # Local-only Jekyll overrides (jekyll serve --config _config.yml,_config_local.yml)
 _config_local.yml
+
+# Agent edit backups
+*.bak.*
+
+# Python bytecode (resume PDF generator)
+__pycache__/
+*.pyc
